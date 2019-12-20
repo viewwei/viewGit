@@ -18,7 +18,7 @@ public class DemoApplication {
     }
     public  static  void kkk(){
         int i = 0 ;
-        System.out.println("11111");
+        System.out.println("111ID我wid11");
     }
 
 
