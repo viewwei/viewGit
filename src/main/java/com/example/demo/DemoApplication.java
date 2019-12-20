@@ -16,5 +16,9 @@ public class DemoApplication {
         System.out.println("dwdwdm dw面对面我都ppppp没玩面对面");
 
     }
+    public  static  void kkk(){
+        int i = 0 ;
+        System.out.println("11111");
+    }
 
 }
