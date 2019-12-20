@@ -12,7 +12,7 @@ public class DemoApplication {
         System.out.println("到另外了的味道无登陆我老大");
         System.out.println("到另外了的味道无登陆我老大");
         System.out.println("到另外了单位登陆我老大"); System.out.println("到另外了登陆我老大");
-        System.out.println("dwdwdm dw面对面我都没玩面对面");
+        System.out.println("dwdwdm 觉得我街道金我");
         System.out.println("dwdwdm dw面对面我都ppppp没玩面dfghfj对面");
         System.out.println("dwdwdm dw面对面我都哦哦动物没玩面对面");
     }
