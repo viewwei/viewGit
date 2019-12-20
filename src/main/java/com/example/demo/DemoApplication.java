@@ -10,6 +10,10 @@ public class DemoApplication {
         SpringApplication.run(DemoApplication.class, args);
         System.out.println("dwdwdwdwdwdwdwdwdwd2222w");
         System.out.println("到另外了登陆我老大");
+        System.out.println("到另外了登陆我老大");
+        System.out.println("到另外了登陆我老大"); System.out.println("到另外了登陆我老大");
+        System.out.println("dwdwdm 面对面我都没玩面对面");
+
     }
 
 }
