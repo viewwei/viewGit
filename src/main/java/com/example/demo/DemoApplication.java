@@ -14,10 +14,9 @@ public class DemoApplication {
         System.out.println("到另外了单位登陆我老大"); System.out.println("到另外了登陆我老大");
         System.out.println("dwdwdm dw面对面我都没玩面对面");
         System.out.println("dwdwdm dw面对面我都ppppp没玩面对面");
-
     }
     public  static  void kkk(){
-        int i = 0 ;
+        int i = 100 ;
         System.out.println("11111");
     }
 
